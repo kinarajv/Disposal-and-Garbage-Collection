@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Console;
+using System.Object;
+
 using System.Diagnostics;
 
 namespace GarbageCollectionDemo
